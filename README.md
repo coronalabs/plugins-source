@@ -23,6 +23,7 @@ Install [CoronaEnterprise](http://coronalabs.com/products/enterprise/).
 ### Security
  * [OpenSSL](https://bitbucket.org/coronalabs/git-plugins-source-openssl) 
 ### Social
+ * [Facebook](https://bitbucket.org/coronalabs/git-plugins-source-facebook)
  * [Social Popup](https://bitbucket.org/coronalabs/git-plugins-source-native-popup-social)
 ### Utilities
  * [Activity Popup](https://bitbucket.org/coronalabs/git-plugins-source-native-popup-activity)
