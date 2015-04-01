@@ -38,14 +38,14 @@ If you're interested in developing a plugin for Corona, please check out our [FA
 
 * [OpenSSL](https://bitbucket.org/coronalabs/git-plugins-source-openssl) 
 
-### Social
+### Social/Sharing
 
 * [Facebook](https://bitbucket.org/coronalabs/git-plugins-source-facebook)
+* [Activity Popup](https://bitbucket.org/coronalabs/git-plugins-source-native-popup-activity)
 * [Social Popup](https://bitbucket.org/coronalabs/git-plugins-source-native-popup-social)
 
 ### Utilities
 
-* [Activity Popup](https://bitbucket.org/coronalabs/git-plugins-source-native-popup-activity)
 * [Bit](https://bitbucket.org/coronalabs/git-plugins-source-bit)
 * [Notifications](https://bitbucket.org/coronalabs/git-plugins-source-notifications)
 * [Zip](https://bitbucket.org/coronalabs/git-plugins-source-zip)
