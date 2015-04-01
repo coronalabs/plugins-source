@@ -1,12 +1,12 @@
 # Overview
 
-This is the table of contents to the source code for Corona Lab's Enterprise plugins.
+This is the list of open source plugin projects available for Corona SDK/CoronaEnterprise.
 
-## Setup
+## Requirements
 
-Install [CoronaEnterprise](http://coronalabs.com/products/enterprise/).
+If you'd like to play with these plugins, you will need to install [CoronaEnterprise](http://coronalabs.com/products/enterprise/).
 
-## Plugins
+## Plugin Source Code
 
 ### Analytics Providers
 
