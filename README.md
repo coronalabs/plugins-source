@@ -11,7 +11,7 @@ If you're interested in developing a plugin for Corona, please check out our [FA
 
 ## License
 
-All open source plugin projects use the [MIT License](LICENSE). 
+All projects listed below are available via the [MIT License](LICENSE). 
 
 We recommend you include the following in a user-visible location (e.g. an About box):
 
