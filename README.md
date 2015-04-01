@@ -13,39 +13,39 @@ If you're interested in developing a plugin for Corona, please check out our [FA
 
 ### Analytics Providers
 
-* [Flurry](https://bitbucket.org/coronalabs/git-plugins-source-analytics-flurry)
+* [Flurry](https://github.com/coronalabs/plugins-source-analytics-flurry)
 
 ### Business
 
-* [Address Book](https://bitbucket.org/coronalabs/git-plugins-source-native-popup-addressbook)
-* [Pasteboard](https://bitbucket.org/coronalabs/git-plugins-source-pasteboard)
-* [Quick Look](https://bitbucket.org/coronalabs/git-plugins-source-native-popup-quicklook)
+* [Address Book](https://github.com/coronalabs/plugins-source-native-popup-addressbook)
+* [Pasteboard](https://github.com/coronalabs/plugins-source-pasteboard)
+* [Quick Look](https://github.com/coronalabs/plugins-source-native-popup-quicklook)
 
 ### Gaming
 
-* [Apple Game Center](https://bitbucket.org/coronalabs/git-plugins-source-gamenetwork-apple)
-* [Google Play Game Services](https://bitbucket.org/coronalabs/git-plugins-source-gamenetwork-google)
+* [Apple Game Center](https://github.com/coronalabs/plugins-source-gamenetwork-apple)
+* [Google Play Game Services](https://github.com/coronalabs/plugins-source-gamenetwork-google)
 
 ### Media
 
-* [iTunes](https://bitbucket.org/coronalabs/git-plugins-source-itunes)
+* [iTunes](https://github.com/coronalabs/plugins-source-itunes)
 
 ### Monetization
 
-* [Google IAP](https://bitbucket.org/coronalabs/git-plugins-source-google-iap-v3)
+* [Google IAP](https://github.com/coronalabs/plugins-source-google-iap-v3)
 
 ### Security
 
-* [OpenSSL](https://bitbucket.org/coronalabs/git-plugins-source-openssl) 
+* [OpenSSL](https://github.com/coronalabs/plugins-source-openssl) 
 
 ### Social/Sharing
 
-* [Facebook](https://bitbucket.org/coronalabs/git-plugins-source-facebook)
-* [Activity Popup](https://bitbucket.org/coronalabs/git-plugins-source-native-popup-activity)
-* [Social Popup](https://bitbucket.org/coronalabs/git-plugins-source-native-popup-social)
+* [Facebook](https://github.com/coronalabs/plugins-source-facebook)
+* [Activity Popup](https://github.com/coronalabs/plugins-source-native-popup-activity)
+* [Social Popup](https://github.com/coronalabs/plugins-source-native-popup-social)
 
 ### Utilities
 
-* [Bit](https://bitbucket.org/coronalabs/git-plugins-source-bit)
-* [Notifications](https://bitbucket.org/coronalabs/git-plugins-source-notifications)
-* [Zip](https://bitbucket.org/coronalabs/git-plugins-source-zip)
+* [Bit](https://github.com/coronalabs/plugins-source-bit)
+* [Notifications](https://github.com/coronalabs/plugins-source-notifications)
+* [Zip](https://github.com/coronalabs/plugins-source-zip)
