@@ -9,7 +9,18 @@ If you'd like to play with the plugin source code, you can [contact us](https://
 If you're interested in developing a plugin for Corona, please check out our [FAQ](https://coronalabs.com/pluginfaq/)
 
 
-## Plugin Source Code
+## License
+
+All open source plugin projects use the [MIT License](LICENSE). 
+
+We recommend you include the following in a user-visible location (e.g. an About box):
+
+```
+Portions copyright © 2015 Corona Labs Inc.  http://www.coronalabs.com
+```
+
+
+## Repositories
 
 ### Analytics Providers
 
