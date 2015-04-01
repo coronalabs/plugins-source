@@ -1,10 +1,13 @@
 # Overview
 
-This is the list of open source plugin projects available for Corona SDK/CoronaEnterprise.
+This is the list of open source plugin projects available for [Corona SDK](https://coronalabs.com/corona) and [CoronaEnterprise](https://coronalabs.com/products/enterprise/).
 
-## Requirements
+## Developers
 
-If you'd like to play with these plugins, you will need to install [CoronaEnterprise](http://coronalabs.com/products/enterprise/).
+If you'd like to play with the plugin source code, you can [contact us](https://coronalabs.com/products/contact/) to get access to CoronaEnterprise.
+
+If you're interested in developing a plugin for Corona, please check out our [FAQ](https://coronalabs.com/pluginfaq/)
+
 
 ## Plugin Source Code
 
