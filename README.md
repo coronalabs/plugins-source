@@ -34,7 +34,18 @@ android update project --target 1 --path /Applications/CoronaEnterprise/Corona/a
 ```
 
 
-## Plugin Source Code
+## License
+
+All projects listed below are available via the [MIT License](LICENSE). 
+
+We recommend you include the following in a user-visible location (e.g. an About box):
+
+```
+Portions copyright © 2015 Corona Labs Inc.  http://www.coronalabs.com
+```
+
+
+## Repositories
 
 ### Analytics Providers
 
