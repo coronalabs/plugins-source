@@ -6,7 +6,32 @@ This is the list of open source plugin projects available for [Corona SDK](https
 
 If you'd like to play with the plugin source code, you can [contact us](https://coronalabs.com/products/contact/) to get access to CoronaEnterprise.
 
-If you're interested in developing a plugin for Corona, please check out our [FAQ](https://coronalabs.com/pluginfaq/)
+If you're interested in developing a plugin for Corona, please check out our [FAQ](https://coronalabs.com/pluginfaq/).
+
+You may also be interested in our [Plugin Directory/Store](https://store.coronalabs.com/)
+
+
+## Setup
+
+### Requirements
+
+* [Corona Enterprise](https://coronalabs.com/products/enterprise/)
+* Apache Ant
+
+Ant can be installed through [Homebrew](http://brew.sh/).
+
+```bash
+brew update
+brew install ant
+```
+
+### Android SDK
+* Install API version 16 in the Android SDK Manager.
+* Configure the project to point to your SDK installation.
+
+```bash
+android update project --target 1 --path /Applications/CoronaEnterprise/Corona/android/lib/Corona/ -p ./android/
+```
 
 
 ## Plugin Source Code
