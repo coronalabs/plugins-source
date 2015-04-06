@@ -25,15 +25,6 @@ brew update
 brew install ant
 ```
 
-### Android SDK
-* Install API version 16 in the Android SDK Manager.
-* Configure the project to point to your SDK installation.
-
-```bash
-android update project --target 1 --path /Applications/CoronaEnterprise/Corona/android/lib/Corona/ -p ./android/
-```
-
-
 ## License
 
 All projects listed below are available via the [MIT License](LICENSE). 
