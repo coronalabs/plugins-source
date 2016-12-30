@@ -68,6 +68,7 @@ Portions copyright © 2015 Corona Labs Inc.  http://www.coronalabs.com
 ### Social/Sharing
 
 * [Facebook](https://github.com/coronalabs/plugins-source-facebook)
+* [Facebook-v4](https://github.com/coronalabs/plugins-source-facebook-v4)
 * [Activity Popup](https://github.com/coronalabs/plugins-source-native-popup-activity)
 * [Social Popup](https://github.com/coronalabs/plugins-source-native-popup-social)
 
